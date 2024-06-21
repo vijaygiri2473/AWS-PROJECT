@@ -1,12 +1,16 @@
 # AWS-PROJECT
 Deploying a Multi-Tier Website Using AWS EC2
-Prerequisites:
+
 An AWS account.
+
 A website source code ready for deployment.
+
 Step 1: Download the Website
 Instead of creating a website from scratch, download a free website from the internet.
+
 Step 2: AWS Management Console
 2. Access the AWS Management Console.
+
 Step 3: Create an S3 Bucket
 3. Create an S3 bucket with a unique name while keeping the default settings.
 
